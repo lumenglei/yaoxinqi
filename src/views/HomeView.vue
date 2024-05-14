@@ -19,7 +19,7 @@ export default {}
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0 -19px;
-  .a {
+  .decoration {
     background-image: url(../assets/百香果数字运营中心/标题.png);
     background-size: cover;
     background-repeat: no-repeat;
